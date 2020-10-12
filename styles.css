@@ -1,0 +1,79 @@
+/* GENERAL */ 
+
+body {
+	margin: 0;
+	background-image: url("images/burger.jpg");
+}
+
+p {
+	text-align: center;
+}
+
+section {
+	background-color: rgba(232, 232, 232, 0.8);
+	width: 650px;
+	margin: auto;
+}
+
+/* HEADER */
+
+#linkPhoto {
+	margin: auto;
+	display: flex;
+	justify-content: center;
+}
+
+img {
+	width: 160px;
+	height: 200px;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+	font-size: 75px;
+}
+
+/* MAIN */
+
+.formulTitle {
+	text-align: center;
+	font-size: 60px;
+	color: lightgreen;
+	padding: 12px;
+}
+
+.burgerList {
+	text-align: left;
+	width: 200px;
+	margin: auto;
+}
+
+#specialTitle {
+	margin-top: 30px;
+	text-align: center;
+	color: green;
+	font-size: 35px;
+}
+
+#specialP {
+	text-align: center;
+	color: grey;
+}
+
+
+#veggieBurger {
+	width: 70px;
+	height: 75px;
+	position: relative;
+	top: 30px;
+}
+
+
+
+
+
+
+
+
+
